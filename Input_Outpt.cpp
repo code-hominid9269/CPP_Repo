@@ -3,6 +3,6 @@ using namespace std;
 int x;
 int main(){
     cin>> x;
-    cout <<"the fed integer is: "<< x<<"\nHow you doin";
+    cout <<"the input integer is: "<< x<<"\nHow you doin, kya haal hain aapke";
     return 0;
 }
